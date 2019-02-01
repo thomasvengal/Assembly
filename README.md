@@ -11,6 +11,10 @@ the following using CPU OS simulator based assembly language program:
 2. Transpose the matrix.
 3. Display the transposed matrix on console.
 
+Solution:
+
+The code is written in a tool named CPU-OS Simulator version 7.5. The source code is saved as .sas file
+You could download the simulator from website http://www.teach-sim.com/ 
 
 Videos are available at
 1) https://www.youtube.com/watch?v=H720xRJzGEA
