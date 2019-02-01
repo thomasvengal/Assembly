@@ -10,3 +10,8 @@ the following using CPU OS simulator based assembly language program:
 1. Accept the data collected in the form of a Matrix (X axis - Total data downloaded in GB vs Y axis - Month of the year) from the keyboard.
 2. Transpose the matrix.
 3. Display the transposed matrix on console.
+
+
+Videos are available at
+1) https://www.youtube.com/watch?v=H720xRJzGEA
+2) https://www.youtube.com/watch?v=2aybUnT0yNI
